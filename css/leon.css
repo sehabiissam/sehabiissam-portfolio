@@ -554,7 +554,7 @@ header .navigation ul li:hover::before {
 
 @media (max-width: 768px) {
   .contact-info .email {
-    font-size: 27px;
+    font-size: 25px;
   }
 }
 
